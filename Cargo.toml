@@ -1,0 +1,11 @@
+[package]
+name = "cfo"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ramon Moraes"]
+description = "A crate with the filesystem operations described at rust by example page."
+license = "MIT"
+documentation = "https://docs.rs/cfo/latest/cfo/"
+homepage = "https://github.com/rmoraes92/cfo"
+
+[dependencies]
